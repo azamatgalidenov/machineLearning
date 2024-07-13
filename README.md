@@ -62,12 +62,6 @@ The dataset used in this project is collected from the National Health Insurance
   - Validation Accuracy: 73.29%
   - Test Accuracy: 73.22%
 
-Evaluate the models:
-
-```bash
-python evaluate.py
-```
-
 ## References
 
 - Systolic and Diastolic Blood Pressure: [PubMed](https://pubmed.ncbi.nlm.nih.gov/32216847/)
