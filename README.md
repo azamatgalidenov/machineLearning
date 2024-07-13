@@ -62,35 +62,6 @@ The dataset used in this project is collected from the National Health Insurance
   - Validation Accuracy: 73.29%
   - Test Accuracy: 73.22%
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/drinking-behavior-prediction.git
-```
-
-Navigate to the project directory and install the required packages:
-
-```bash
-cd drinking-behavior-prediction
-pip install -r requirements.txt
-```
-
-## Usage
-
-Run the preprocessing script to prepare the dataset:
-
-```bash
-python preprocess.py
-```
-
-Train the models:
-
-```bash
-python train.py
-```
-
 Evaluate the models:
 
 ```bash
